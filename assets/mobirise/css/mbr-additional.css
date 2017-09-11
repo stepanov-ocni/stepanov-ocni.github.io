@@ -2193,3 +2193,26 @@ body {
 .cid-quWvnNEoZw .mbr-text B {
   color: #232323;
 }
+.cid-quWy4UIwUN {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-quWy4UIwUN .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-quWy4UIwUN .section-text {
+  padding: 2rem 0;
+}
+.cid-quWy4UIwUN .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-quWy4UIwUN .inner-container {
+    width: 100% !important;
+  }
+}
