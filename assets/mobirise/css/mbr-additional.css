@@ -2172,46 +2172,22 @@ body {
 .cid-quWmspHZgD .mbr-crt-title {
   text-align: center;
 }
-.cid-quWvnNEoZw {
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-quWvnNEoZw .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-quWvnNEoZw .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-quWvnNEoZw .mbr-text {
-  color: #767676;
-  text-align: left;
-}
-.cid-quWvnNEoZw .mbr-text B {
-  color: #232323;
-}
-.cid-qvzInBogrA {
-  padding-top: 45px;
+.cid-qvzLb0Romb {
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-@media (min-width: 992px) {
-  .cid-qvzInBogrA .mbr-figure {
-    padding-left: 4rem;
-  }
+.cid-qvzLb0Romb h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
 }
-@media (max-width: 992px) {
-  .cid-qvzInBogrA .mbr-figure {
-    padding-top: 1rem;
-  }
-}
-.cid-qvzInBogrA .mbr-text {
+.cid-qvzLb0Romb p {
   color: #767676;
   text-align: left;
+}
+.cid-qvzLb0Romb .card-box {
+  padding-top: 2rem;
 }
 .cid-quWy4UIwUN {
   padding-top: 0px;
