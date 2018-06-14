@@ -1533,7 +1533,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #073b4c;
 }
 .cid-quR8WF46HD button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1791,6 +1791,11 @@ body {
 @media (min-width: 992px) {
   .cid-qUXULEVkpN .mbr-figure {
     padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+  .cid-qUXULEVkpN .media-container-row {
+    -webkit-flex-direction: row-reverse;
   }
 }
 @media (max-width: 991px) {
@@ -1798,6 +1803,13 @@ body {
     padding-right: 0;
     padding-bottom: 1rem;
     margin-bottom: 2rem;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    padding-top: 1rem;
+    margin-top: 2rem;
+  }
+  .cid-qUXULEVkpN .media-container-row {
+    -webkit-flex-direction: column-reverse;
   }
 }
 @media (max-width: 300px) {
@@ -1961,7 +1973,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #073b4c;
 }
 .cid-quR8WF46HD button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2452,7 +2464,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #073b4c;
 }
 .cid-quR8WF46HD button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2871,7 +2883,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #073b4c;
 }
 .cid-quR8WF46HD button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3724,7 +3736,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #073b4c;
 }
 .cid-qK22Fs8FHf button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -4097,7 +4109,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #073b4c;
 }
 .cid-qK22Fs8FHf button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -4580,7 +4592,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #073b4c;
 }
 .cid-qNqNGiS7L2 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -5063,7 +5075,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #073b4c;
 }
 .cid-qNqTNGlEqn button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -5546,7 +5558,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #073b4c;
 }
 .cid-qNqYnAx4dJ button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -6029,7 +6041,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #073b4c;
 }
 .cid-qNr4gADs3r button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -6512,7 +6524,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #073b4c;
 }
 .cid-qNr73wfSsq button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -6995,7 +7007,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #073b4c;
 }
 .cid-qUSz9vEpLG button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -7479,7 +7491,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #073b4c;
 }
 .cid-qUSEAiwIuS button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -7963,7 +7975,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #073b4c;
 }
 .cid-qUSHBMCiSi button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -8446,7 +8458,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #073b4c;
 }
 .cid-qUSMZIveea button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -8930,7 +8942,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #073b4c;
 }
 .cid-qUSO79zrwY button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -9413,7 +9425,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #073b4c;
 }
 .cid-qUXFUai0Lk button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -9896,7 +9908,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #073b4c;
 }
 .cid-qUXIq4dxrf button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -10355,7 +10367,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #073b4c;
 }
 .cid-qNr73wfSsq button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
