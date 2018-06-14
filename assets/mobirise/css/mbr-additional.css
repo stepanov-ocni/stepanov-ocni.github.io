@@ -2910,7 +2910,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #333333;
 }
 .cid-quR8WF46HD button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3144,11 +3144,6 @@ body {
 }
 .cid-qK0XwwB2ZV .card-title {
   text-align: center;
-}
-.cid-qK1bqISTw3 {
-  padding-top: 0px;
-  padding-bottom: 120px;
-  background-color: #2e2e2e;
 }
 .cid-qK18bLfFYv {
   padding-top: 60px;
