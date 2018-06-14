@@ -42,10 +42,10 @@ body {
 }
 .display-5 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 2.24rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
@@ -76,9 +76,9 @@ body {
     line-height: calc( 1.4 * (0.86rem + (0.6 - 0.86) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 0.96rem;
-    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.12rem;
+    font-size: calc( 1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1740,22 +1740,65 @@ body {
     flex-shrink: 0;
   }
 }
-.cid-quOknkiqFm {
-  background-image: url("../../../assets/images/background1.jpg");
+.cid-qUXULEVkpN {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-color: #f9f9f9;
 }
-.cid-quOknkiqFm h1 {
-  color: #616161;
-}
-.cid-quOknkiqFm h2,
-.cid-quOknkiqFm h3,
-.cid-quOknkiqFm p {
-  color: #767676;
-}
-.cid-quOknkiqFm .mbr-section-subtitle {
-  font-style: italic;
-}
-.cid-quOknkiqFm H1 {
+.cid-qUXULEVkpN h2 {
   text-align: left;
+}
+.cid-qUXULEVkpN h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-qUXULEVkpN p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qUXULEVkpN .aside-content {
+  flex-basis: 100%;
+}
+.cid-qUXULEVkpN .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-qUXULEVkpN .media {
+  margin: initial;
+  align-items: center;
+}
+.cid-qUXULEVkpN .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-qUXULEVkpN .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-qUXULEVkpN .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-qUXULEVkpN .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qUXULEVkpN .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-qUXULEVkpN .card-img span {
+    font-size: 40px !important;
+  }
 }
 .cid-quR8WF46HD .navbar {
   background: #ffffff;
