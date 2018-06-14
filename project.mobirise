@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 132,
     "versionPublish": "4.7.7",
@@ -49,7 +49,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "MUDr. Alexandr Stěpanov, Ph.D., FEBO",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
