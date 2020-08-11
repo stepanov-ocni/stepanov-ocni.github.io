@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page10.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 163,
     "versionPublish": "4.12.4",
@@ -50,7 +50,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "MUDr. Alexandr Stepanov, Ph.D., FEBO | oční lékař pro děti i dospělé",
+        "title": "MUDr. Alexandr Stepanov, Ph.D., MBA, FEBO | oční lékař pro děti i dospělé",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -608,7 +608,7 @@
     "page1.html": {
       "settings": {
         "meta_descr": "Web Site Builder Description",
-        "title": "Anatomie | MUDr. Alexandr Stepanov, Ph.D., FEBO",
+        "title": "Anatomie | MUDr. Alexandr Stepanov, Ph.D., MBA, FEBO",
         "order": 7
       },
       "components": [
@@ -1174,7 +1174,7 @@
     "page2.html": {
       "settings": {
         "meta_descr": "Site Creator Description",
-        "title": "Vyšetřovácí metody | MUDr. Alexandr Stepanov, Ph.D., FEBO",
+        "title": "Vyšetřovácí metody | MUDr. Alexandr Stepanov, Ph.D., MBA, FEBO",
         "order": 5
       },
       "components": [
@@ -1674,7 +1674,7 @@
     "page3.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
-        "title": "Brýle | MUDr. Alexandr Stepanov, Ph.D., FEBO",
+        "title": "Brýle | MUDr. Alexandr Stepanov, Ph.D., MBA, FEBO",
         "order": 3
       },
       "components": [
@@ -2625,7 +2625,7 @@
     "page4.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
-        "title": "Onemocnění | MUDr. Alexandr Stepanov, Ph.D., FEBO",
+        "title": "Onemocnění | MUDr. Alexandr Stepanov, Ph.D., MBA, FEBO",
         "order": 4
       },
       "components": [
@@ -3227,7 +3227,7 @@
     "page5.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "Konjunktivitida | MUDr. Alexandr Stepanov, Ph.D., FEBO",
+        "title": "Konjunktivitida | MUDr. Alexandr Stepanov, Ph.D., MBA, FEBO",
         "order": 8
       },
       "components": [
@@ -3823,7 +3823,7 @@
     "page6.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "Katarakta | MUDr. Alexandr Stepanov, Ph.D., FEBO",
+        "title": "Katarakta | MUDr. Alexandr Stepanov, Ph.D., MBA, FEBO",
         "order": 16
       },
       "components": [
@@ -4419,7 +4419,7 @@
     "page7.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "Glaukom | MUDr. Alexandr Stepanov, Ph.D., FEBO",
+        "title": "Glaukom | MUDr. Alexandr Stepanov, Ph.D., MBA, FEBO",
         "order": 17
       },
       "components": [
@@ -5015,7 +5015,7 @@
     "page8.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "VPMD | MUDr. Alexandr Stepanov, Ph.D., FEBO",
+        "title": "VPMD | MUDr. Alexandr Stepanov, Ph.D., MBA, FEBO",
         "order": 18
       },
       "components": [
@@ -5611,7 +5611,7 @@
     "page9.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "Diabetes | MUDr. Alexandr Stepanov, Ph.D., FEBO",
+        "title": "Diabetes | MUDr. Alexandr Stepanov, Ph.D., MBA, FEBO",
         "order": 19
       },
       "components": [
@@ -6207,7 +6207,7 @@
     "page10.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "Odchlípení sítnice | MUDr. Alexandr Stepanov, Ph.D., FEBO",
+        "title": "Odchlípení sítnice | MUDr. Alexandr Stepanov, Ph.D., MBA, FEBO",
         "order": 20
       },
       "components": [
@@ -6803,7 +6803,7 @@
     "page12.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "Keratitida | MUDr. Alexandr Stepanov, Ph.D., FEBO",
+        "title": "Keratitida | MUDr. Alexandr Stepanov, Ph.D., MBA, FEBO",
         "order": 13
       },
       "components": [
@@ -7400,7 +7400,7 @@
     "page13.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "Iridocyklitida | MUDr. Alexandr Stepanov, Ph.D., FEBO",
+        "title": "Iridocyklitida | MUDr. Alexandr Stepanov, Ph.D., MBA, FEBO",
         "order": 14
       },
       "components": [
@@ -7997,7 +7997,7 @@
     "page14.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": " | MUDr. Alexandr Stepanov, Ph.D., FEBO",
+        "title": " | MUDr. Alexandr Stepanov, Ph.D., MBA, FEBO",
         "order": 12
       },
       "components": [
@@ -8593,7 +8593,7 @@
     "page15.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "Blefaritida | MUDr. Alexandr Stepanov, Ph.D., FEBO",
+        "title": "Blefaritida | MUDr. Alexandr Stepanov, Ph.D., MBA, FEBO",
         "order": 15
       },
       "components": [
@@ -9190,7 +9190,7 @@
     "page16.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "Neuritida | MUDr. Alexandr Stepanov, Ph.D., FEBO",
+        "title": "Neuritida | MUDr. Alexandr Stepanov, Ph.D., MBA, FEBO",
         "order": 11
       },
       "components": [
@@ -9786,7 +9786,7 @@
     "page17.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "Skleritida | MUDr. Alexandr Stepanov, Ph.D., FEBO",
+        "title": "Skleritida | MUDr. Alexandr Stepanov, Ph.D., MBA, FEBO",
         "order": 10
       },
       "components": [
@@ -10382,7 +10382,7 @@
     "page18.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "Zákalky ve sklivci | MUDr. Alexandr Stepanov, Ph.D., FEBO",
+        "title": "Zákalky ve sklivci | MUDr. Alexandr Stepanov, Ph.D., MBA, FEBO",
         "order": 9
       },
       "components": [
@@ -10943,7 +10943,7 @@
     "page19.html": {
       "settings": {
         "meta_descr": "Web Site Builder Description",
-        "title": "Kontakty | MUDr. Alexandr Stepanov, Ph.D., FEBO",
+        "title": "Kontakty | MUDr. Alexandr Stepanov, Ph.D., MBA, FEBO",
         "order": 2
       },
       "components": [
@@ -11479,7 +11479,7 @@
     },
     "page20.html": {
       "settings": {
-        "title": "English | MUDr. Alexandr Stepanov, Ph.D., FEBO",
+        "title": "English | MUDr. Alexandr Stepanov, Ph.D., MBA, FEBO",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
